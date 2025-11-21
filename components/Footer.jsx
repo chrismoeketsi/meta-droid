@@ -39,7 +39,7 @@ const Footer = () => (
             METADROID
           </h4>
           <p className="font-normal text-[14px] text-white opacity-50">
-            Copyright © 2021 - 2022 Metadroid. All rights reserved.
+            Copyright © 2019 - 2025 Metadroid. All rights reserved.
           </p>
 
           <div className="flex gap-4">
